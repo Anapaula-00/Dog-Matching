@@ -1,0 +1,15 @@
+# Acknowledgement
+
+The authors of this project acknowledge the platform **Kaggle.com**, which was extensively used to gather data for this study.
+
+Regarding the authors' contributions, the project pipeline was developed as follows:
+
+- **A.M** conducted research on dog breeds and their characteristics.
+- **A.M** contributed to the dataset preparation and data cleaning process.
+- **A.M & F.C.** collaborated on the implementation of the NLP model and similarity matching.
+- **A.M & F.C** managed code debugging using Cloud Sonnet.
+- **A.M.** focused on writing and structuring the documentation.
+- Both authors jointly reviewed and finalized the project.
+
+This project was developed as part of the **Data Mining and Text Analytics** university course.
+
